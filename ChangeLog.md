@@ -1,5 +1,8 @@
 # Changelog for mqttd
 
+## 0.10.0.0
+* 2022-10-31 Fixed keepalive if 0 is sent.
+
 ## 0.9.0.0
 
 I've been running in production for over a year with no issues to
